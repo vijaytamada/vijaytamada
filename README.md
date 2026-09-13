@@ -18,12 +18,12 @@ I build backend systems and agentic AI tooling — from schema design to product
 
 ## 🛠 Stack
 
-**Backend** — Java, Spring Boot, Spring Cloud, Node.js, REST / GraphQL
-**Data** — PostgreSQL, MySQL, MongoDB, Redis
-**Messaging** — RabbitMQ, Amazon SQS
-**Infra** — AWS (S3, SQS, EC2), Docker, GitHub Actions, Linux
-**Frontend** — React, Next.js, Tailwind
-**AI** — Agentic AI tooling, Claude, MCP
+- **Backend** — Java, Spring Boot, Spring Cloud, Node.js, REST / GraphQL
+- **Data** — PostgreSQL, MySQL, MongoDB, Redis
+- **Messaging** — RabbitMQ, Amazon SQS
+- **Infra** — AWS (S3, SQS, EC2), Docker, GitHub Actions, Linux
+- **Frontend** — React, Next.js, Tailwind
+- **AI** — Agentic AI tooling, Claude, MCP, Antigravity
 
 ## 🧩 Problem solving
 
